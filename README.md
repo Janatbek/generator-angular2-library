@@ -1,15 +1,15 @@
-## CLone the repo https://bitbucket.micron.com/bbdc/projects/ITENG/repos/web-platform-library/browse/package.json, 
+### Clone the repo https://bitbucket.micron.com/bbdc/projects/ITENG/repos/web-platform-library/browse/package.json, 
 ```bash
 $ git checkout consuming-library-dev-en
 vironment
 ```
-## Checkout to the 'consuming-library-dev-environment' branch 
+### Checkout to the 'consuming-library-dev-environment' branch 
 
 ```bash
 $ git checkout consuming-library-dev-en
 vironment
 ```
-## Building your web-platform-library
+### Building your web-platform-library
 
 From the root of your library directory, run:
 
@@ -181,10 +181,10 @@ $ npm start --preserve-symlinks
 to make sure the consuming application searches for the peer dependencies in the application's node_modules directory.  
    
 
-
-### v0.1.0
+### web-platform-library
+### v1.0.8
 
 - Added documentation
-- Added boilerplate scaffolding
+- Added boilerplate consuming
 - Initial version
 
