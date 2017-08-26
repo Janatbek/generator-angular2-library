@@ -1,13 +1,18 @@
-### Clone the repo https://bitbucket.micron.com/bbdc/projects/ITENG/repos/web-platform-library/browse/package.json, 
+### Clone the repo [web-platform-library](https://bitbucket.micron.com/bbdc/projects/ITENG/repos/web-platform-library/browse)
+
 ```bash
-$ git checkout consuming-library-dev-en
-vironment
+$ git clone https://JSHARSHEYEV@bitbucket.micron.com/bbdc/scm/iteng/web-platform-library.git
 ```
+### Navigate to the `web-platform-library` directory
+
+```bash
+$ cd web-platform-library
+```
+
 ### Checkout to the 'consuming-library-dev-environment' branch 
 
 ```bash
-$ git checkout consuming-library-dev-en
-vironment
+$ git checkout consuming-library-dev-environment
 ```
 ### Building your web-platform-library
 
