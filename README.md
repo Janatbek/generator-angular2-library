@@ -14,15 +14,8 @@ $ cd web-platform-library
 ```bash
 $ git checkout consuming-library-dev-environment
 ```
-### Building your web-platform-library
 
-From the root of your library directory, run:
-
-```bash
-$ npm run build
-```
-
-This will generate a `dist` directory with following files for you:
+### You will see this structure of the app:
 
 ```bash
 .
@@ -57,7 +50,7 @@ This will generate a `dist` directory with following files for you:
 └── tslint.json
 
 ```
-
+### Building your web-platform-library
 You can then add or edit `*.ts` files in the `src/` directory and run:
 
 ```bash
